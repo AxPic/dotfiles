@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = apichler@posteo.de
+	name = Axel Pichler
